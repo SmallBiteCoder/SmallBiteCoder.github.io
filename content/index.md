@@ -1,7 +1,5 @@
----
-title: Welcome to Quartz
----
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-These are commonds to cotrol workflow
+
+# The Doc Hub 
+The Doc Hub is created by Akash Ranjan. This Page contains all the content that I have ever learned . 
+
